@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+openai
+langchain
+langchain-core
+langchain-community
+nltk
+scikit-learn
+rank-bm25
+chardet
+requests
